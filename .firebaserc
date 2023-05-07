@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "genesis-c03fc",
+    "genesis": "genesis-c03fc"
+  },
+  "targets": {},
+  "etags": {}
+}
